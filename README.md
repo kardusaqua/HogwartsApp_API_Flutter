@@ -55,9 +55,27 @@ Dengan cara ini, "view" dan "controller" berinteraksi untuk memenuhi kebutuhan p
 
 # Cara Menjalankan Aplikasi
 1. Saat running aplikasi, maka akan diarahkan ke halaman splash screen yang akan menampilkan "flash view" selama 5 detik sebelum beralih ke halaman utama (home) yang berisi menu 'Characters' dan 'Favorite'.
+   
+![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/splashscreen.PNG?raw=true)
+
 ![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/like%20character.PNG?raw=true)
+
+![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/menu%20favorit.PNG?raw=true)
+
+
 2. Pada halaman 'Chacarter', akan ditampilkan daftar karakter.
-![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/like%20character.PNG?raw=true)
-4. Nama setiap karakter di halaman karakter dapat di klik, dan akan diarahkan ke halaman detail karakter yang berisi 
+
+3. Nama setiap karakter di halaman karakter dapat di klik, dan akan diarahkan ke halaman detail karakter yang berisi nama aktor/aktris yang memerankan, gender karakter, tanggal lahir karater, dan warna mata serta rambut karakter.
+   
 ![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/detail.PNG?raw=true)
-5. 
+
+
+4. Terdapat opsi untuk menambahkan karakter ke dalam menu favorit.
+
+![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/like%20character.PNG?raw=true)
+
+5. Setelah tanda hati di klik maka karakter akan tersimpan ke dalam menu favorit.
+
+![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/after%20like.PNG?raw=true)
+
+Dengan cara ini, user dapat menjelajahi karakter-karakter dari film Harry Potter, melihat detail karakter yang menarik, dan mengelola karakter favorit mereka dengan mudah
