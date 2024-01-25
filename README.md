@@ -54,7 +54,10 @@
 Dengan cara ini, "view" dan "controller" berinteraksi untuk memenuhi kebutuhan pengguna dalam menampilkan dan mengelola data, sementara "model" berperan dalam mencari, mengolah, dan menyediakan data yang diperlukan. Aliran data yang terorganisir ini membantu memisahkan tanggung jawab masing-masing komponen, meningkatkan struktur proyek, dan memudahkan pengembangan dan pemeliharaan aplikasi Hogwarts.
 
 # Cara Menjalankan Aplikasi
-1. Setelah menjalankan aplikasi, akan diarahkan ke halaman splash screen yang akan menampilkan "flash view" selama 5 detik sebelum beralih ke halaman utama (home) yang berisi menu 'Characters' dan 'Favorite'
-
-2. 
-3. 
+1. Saat running aplikasi, maka akan diarahkan ke halaman splash screen yang akan menampilkan "flash view" selama 5 detik sebelum beralih ke halaman utama (home) yang berisi menu 'Characters' dan 'Favorite'.
+![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/like%20character.PNG?raw=true)
+2. Pada halaman 'Chacarter', akan ditampilkan daftar karakter.
+![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/like%20character.PNG?raw=true)
+4. Nama setiap karakter di halaman karakter dapat di klik, dan akan diarahkan ke halaman detail karakter yang berisi 
+![alt text](https://github.com/kardusaqua/HogwartsApp_API_Flutter/blob/main/detail.PNG?raw=true)
+5. 
